@@ -59,8 +59,7 @@ lyric-typing/
 
 ## Developer
 
-- Achmad Junaedi
-- Web Developer & Founder Setvy.id
+- **Achmad Junaedi** - Web Developer & Founder [Setvy.id](https://setvy.id)
 
 ## Lisensi
 
